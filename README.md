@@ -1,4 +1,4 @@
-# AutomatizandoEdureka
+# Automatizando Edureka
 
 Projeto feita para o Treinamento de Selenium e java.
 
