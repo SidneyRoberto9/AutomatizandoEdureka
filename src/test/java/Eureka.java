@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 public class Eureka {
     private WebDriver driver;
 
-    private String Login = "shidoni0507@gmail.com", Password = "Sidneyroberto10";
+    private String Login = "shidoni0507@gmail.com", Password = "Sid12345678";
 
     @Before
     public void inicializar(){
