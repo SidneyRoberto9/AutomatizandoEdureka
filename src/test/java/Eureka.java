@@ -17,7 +17,7 @@ public class Eureka {
 
     @Before
     public void inicializar(){
-        System.setProperty("webdriver.gecko.driver", "C:/Driver/geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver", "src/test/firefox/geckodriver.exe");
         driver = new FirefoxDriver();
     }
 
