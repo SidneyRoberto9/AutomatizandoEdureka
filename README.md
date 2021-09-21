@@ -6,11 +6,12 @@
 
 ## Informações Gerais
 Projeto feito Com base no Selenium e java para o Treino, Com finalidade:
-1 - logar no Eureka.
-2 - Navegar ate o "My Profile".
-3 - Atualizar os detalhes Profissionais e Pessoais.
-4 - Explorar a Aba Blogs e navegar ate a Aba inicial.
-5 - Deslogar do Site.
+
+#### 1 - logar no Eureka.
+#### 2 - Navegar ate o "My Profile".
+#### 3 - Atualizar os detalhes Profissionais e Pessoais.
+#### 4 - Explorar a Aba Blogs e navegar ate a Aba inicial.
+#### 5 - Deslogar do Site.
 
 Como foi Pedido que o Usuario Atualize o seu perfil o Test não funciona com Contas novas sem nenhuma informação.
 
