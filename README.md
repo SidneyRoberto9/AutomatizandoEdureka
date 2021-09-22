@@ -1,5 +1,5 @@
 # Automatizando Edureka
-## Table of contents
+## Indice
 * [Informações Gerais](#informações-gerais)
 * [Tecnologias](#tecnologias)
 * [Imagem](#imagem)
