@@ -3,17 +3,17 @@
 * [Informações Gerais](#informações-gerais)
 * [Tecnologias](#tecnologias)
 * [Imagem](#imagem)
+* [Testes Executados](#testes-executados)
 
 ## Informações Gerais
-Projeto feito Com base no Selenium e java para o Treino, Para Executar os teste Compile o Arquivo "Edukera.java". Estrutura do Projeto:
+Projeto feito Com base no Selenium e java para o Treino, Para Executar os teste Compile o Arquivo "Edukera.java". Como foi Pedido que o Usuario Atualize o seu perfil o Test não funciona com Contas novas sem nenhuma informação.
 
-#### 1 - logar no Eureka.
-#### 2 - Navegar ate o "My Profile".
-#### 3 - Atualizar os detalhes Profissionais e Pessoais.
-#### 4 - Explorar a Aba Blogs e navegar ate a Aba inicial.
-#### 5 - Deslogar do Site.
-
-Como foi Pedido que o Usuario Atualize o seu perfil o Test não funciona com Contas novas sem nenhuma informação.
+## Testes Executados
+* 1 - logar no Eureka.
+* 2 - Navegar ate o "My Profile".
+* 3 - Atualizar os detalhes Profissionais e Pessoais.
+* 4 - Explorar a Aba Blogs e navegar ate a Aba inicial.
+* 5 - Deslogar do Site.
 
 ## Tecnologias
 Project is created with:
