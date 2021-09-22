@@ -2,10 +2,10 @@
 ## Table of contents
 * [Informações Gerais](#informações-gerais)
 * [Tecnologias](#tecnologias)
-* [Image](#image)
+* [Imagem](#imagem)
 
 ## Informações Gerais
-Projeto feito Com base no Selenium e java para o Treino, Com finalidade:
+Projeto feito Com base no Selenium e java para o Treino, Para Executar os teste Compile o Arquivo "Edukera.java". Estrutura do Projeto:
 
 #### 1 - logar no Eureka.
 #### 2 - Navegar ate o "My Profile".
@@ -22,7 +22,5 @@ Project is created with:
 * ChromeDriver version: 94.0.4606.41
 * JUnit version: 4.12
 	
-## Image
-Estrutura do Projeto:
-
+## Imagem
  <img src=".idea/01.png" title="01">
