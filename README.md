@@ -20,6 +20,7 @@ Project is created with:
 * Selenium version: 3.141.59
 * JDK version: 8
 * ChromeDriver version: 94.0.4606.41
+* JUnit version: 4.12
 	
 ## Image
 Estrutura do Projeto:
