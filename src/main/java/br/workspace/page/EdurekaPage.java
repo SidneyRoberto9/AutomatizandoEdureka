@@ -57,12 +57,13 @@ public class EdurekaPage extends BasePage{
 		Thread.sleep(2000);
 		escreva(By.xpath("//*[@id='fullName']"), "Roberto");
 		Thread.sleep(2000);
-		
+
+		Thread.sleep(2000);
 		escreva("designation", "QA Tester player");
-		clicarBotao(By.xpath("//*[@id='footauto']//app-onboarding-user-details/section//*[.='Improve in current job']/"));
-		
+		Thread.sleep(2000);
+
 		//clico para enviar tudo que fora atualizado
-		clicarBotao(By.xpath("//*[@id='footauto']//app-onboarding-user-details//*[.='SUBMIT']"));
+		clicarBotao(By.xpath("//*[@id='mat-tab-content-0-0']/div/div/div/button"));
 		
 		//navego ate a pagina inicial
 		irPagina("https://www.edureka.co/");
