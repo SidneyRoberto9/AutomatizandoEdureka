@@ -23,5 +23,3 @@ Project is created with:
 * GeckoDriver version: 0.29.1
 * JUnit version: 4.12
 	
-## Imagem
- <img src=".idea/01.png" title="01">
